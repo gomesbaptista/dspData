@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Comprar prédio em Lisboa (Concelho) | Imovirtual</title>
+							<link rel="next" href="https://www.imovirtual.com/comprar/predio/lisboa/?search%5Bregion_id%5D=11&search%5Bsubregion_id%5D=153&search%5Border%5D=created_at_first%3Adesc&nrAdsPerPage=72&page=2" />
+				<meta name="robots" content="index, follow" />		<link rel="canonical" href="https://www.imovirtual.com/comprar/predio/lisboa/lisboa/" />		<link rel="alternate" href="https://www.imovirtual.com/comprar/predio/lisboa/lisboa/?search%5Bregion_id%5D=11&search%5Bsubregion_id%5D=153&search%5Border%5D=created_at_first%3Adesc&nrAdsPerPage=72" hreflang="pt" />
+<link rel="alternate" href="https://www.imovirtual.com/en/comprar/predio/lisboa/lisboa/?search%5Bregion_id%5D=11&search%5Bsubregion_id%5D=153&search%5Border%5D=created_at_first%3Adesc&nrAdsPerPage=72" hreflang="en" />		<met
